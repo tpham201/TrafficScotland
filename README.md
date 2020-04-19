@@ -1,3 +1,2 @@
-# TrafficScotland
-# Pham Thi Hue
-# S1839331
+# Traffic Scotland
+# Pham Thi Hue - S1839331
